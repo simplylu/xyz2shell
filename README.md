@@ -9,7 +9,7 @@
 
 ### Description
 
-Welcome to **X2SHELL**, the groundbreaking polyglot suite of satirical (and terrible) "shells" in **Python**, **Node.js**, **C**, **C++**, **Rust**, **Ruby**, **CMD**, and **PowerShell**.
+Welcome to **xyz2shell**, the groundbreaking polyglot suite of satirical (and terrible) "shells" in **Python**, **Node.js**, **C**, **C++**, **Rust**, **Ruby**, **CMD**, and **PowerShell**.
 
 Whenever a new vulnerability drops with a name like `something2rce` or `runtime2shell`, the pitch is always dramatic—until you read the prerequisites and realize you already have arbitrary code execution in that exact runtime. So here we are: eight lovingly over-engineered wrappers around running commands in the language you're already executing.
 
